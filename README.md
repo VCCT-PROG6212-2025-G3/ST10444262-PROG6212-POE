@@ -96,3 +96,20 @@ each time
 
 • Entity Framework must be used to interact with the data in the database 
 ________________
+UML CLASS DIAGRAM FOR DATABASE
+----------------
+<div align="center">
+  <img src="Part1_Images/Prog_DatabaseStructure.drawio.png" alt="Database Structure" width="600">
+</div>
+
+
+  This UML diagram outlines the tables and attributes need for system to function. Every 
+  user has PasswordHash which is the encrypted version of the user’s password 
+  ensuring security. Globally Unique Identifier or GUID is used to verify the user's email 
+  address ensuring that the user can get email notifications based on the claim progress. 
+  Supporting_Document contains the documents metadata, and it associated with each 
+  claim. The claim table stores all relevant claim information and takes the Co
+  ordinator/Manager Id once they have verified/accepted the claim allowing the claim to 
+  be viewed from their side of the application. This ensures that the database will be 
+  implemented with everything needed to create an operational CMCS.
+  ______
