@@ -113,3 +113,6 @@ UML CLASS DIAGRAM FOR DATABASE
   be viewed from their side of the application. This ensures that the database will be 
   implemented with everything needed to create an operational CMCS.
   ______
+  PROJECT PLAN
+-------------
+![Project Plan](Part1_Images/Project-Plan.png)
