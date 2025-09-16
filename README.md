@@ -182,3 +182,25 @@ GUI UI
   <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Individual Claim details.png" alt="Lecturer Dash" width="600">
   <p><em> Co-ordinator/Manager Claim Details from Review History</em></p>
 </div>
+
+___________________
+REFERENCES
+--------------
+Olesen, J., 2025. Color Meanings – Discover the Power and Symbolism Behind Every 
+Hue. [Online]  
+Available at: https://www.color-meanings.com/ 
+[Accessed 7 September 2025].
+____________
+ AI Usage and Disclaimer
+ --------------
+ 
+Sections: GUI Design 
+
+Name of AI Tool: ChatGPT (GPT-5) 
+
+Purpose/Intention: Finding out what colours would be best suited towards creating my GUI 
+
+Dates:  7 September 2025 
+
+Links: https://chatgpt.com/share/68c92a19-d4c0-8005-bb52-b42f1197a10f
+______________
