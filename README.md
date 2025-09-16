@@ -66,7 +66,7 @@ referenced resources.
   
 <ins>**Assumptions & Constraints**</ins>
 
-* *Assumptions*  
+ *Assumptions*  
 
 • Lecturer can only make a single claim per month 
 
@@ -84,7 +84,7 @@ each time
 
 • If a claim is rejected a reason can be provided by the reviewer. 
 
-* *Constraints* 
+ *Constraints* 
 
 • File uploads are restricted to .pdf, docx, and .xlsx with a size limit of 5MB 
 
@@ -116,3 +116,69 @@ UML CLASS DIAGRAM FOR DATABASE
   PROJECT PLAN
 -------------
 ![Project Plan](Part1_Images/Project-Plan.png)
+___________________________
+GUI UI
+-------
+**Lecture GUI**
+
+<div align="center">
+  <img src="Part1_Images/Lecturer%20GUI/LecturerDash.png" alt="Lecturer Dash" width="600">
+  <p><em>Lecturer Dashboard</em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Lecturer GUI/Lecturer Profile.png" alt="Lecturer Dash" width="600">
+  <p><em>Lecturer Profile</em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Lecturer GUI/SubmitClaim.png" alt="Lecturer Dash" width="600">
+  <p><em> Create Claim (Submit a new claim) </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Lecturer GUI/LecturerClaimHistory.png" alt="Lecturer Dash" width="600">
+  <p><em> All Claims (Claim History)  </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Lecturer GUI/LecturerClaimDetails.png" alt="Lecturer Dash" width="600">
+  <p><em> Individual submitted claim details  </em></p>
+</div>
+
+**Programme Co-ordinator/Academic Manager GUI**
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Coordinator_manager_Dashboard.png" alt="Lecturer Dash" width="600">
+  <p><em> Co-ordinator/Manager Dashboard </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Profile.png" alt="Lecturer Dash" width="600">
+  <p><em> Co-ordinator/Manager Profile </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Manager_Co-ordinator list.png" alt="Lecturer Dash" width="600">
+  <p><em>Review a Claim (list for both Co-ordinator/Manager to choose claim to review)  </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Co-ord/Co-Ordinator_Claim.png" alt="Lecturer Dash" width="600">
+  <p><em>Co-ordinator Claim Verification </em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Manager/Manager_Acceptance.png" alt="Lecturer Dash" width="600">
+  <p><em> Manager Claim Acceptance</em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Co-ordinator_Manager_ReviewHistory.png" alt="Lecturer Dash" width="600">
+  <p><em>  Co-ordinator/Manager Review History</em></p>
+</div>
+
+<div align="center">
+  <img src="Part1_Images/Co-ordinator_Manager GUI/Shared/Individual Claim details.png" alt="Lecturer Dash" width="600">
+  <p><em> Co-ordinator/Manager Claim Details from Review History</em></p>
+</div>
